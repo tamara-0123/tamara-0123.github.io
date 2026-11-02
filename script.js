@@ -63,7 +63,7 @@ let prevScrollPos = window.pageYOffset;
       name: 'ReactJS'
     },
     {
-      image: 'Flutter',
+      image: 'flutter',
       name: 'Flutter'
     },
     
